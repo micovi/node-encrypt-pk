@@ -1,0 +1,16 @@
+{
+  "name": "vaivas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "encrypt.js",
+  "dependencies": {
+    "@zilliqa-js/crypto": "^0.8.9",
+    "tslib": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
